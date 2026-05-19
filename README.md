@@ -28,6 +28,8 @@ Halaman ini dirancang secara modular dan responsif (*Mobile-First Approach*) den
 
 ---
 
+![Screenshoot Pengerjaan] (src/assets/img/ss/ss1.png)
+
 ## 📁 Struktur Folder Proyek
 
 ```text
@@ -41,4 +43,4 @@ Halaman ini dirancang secara modular dan responsif (*Mobile-First Approach*) den
         ├── Kategori/           # Ikon kategori edukasi (foto1, foto2, foto3)
         └── Games/              # Gambar produk game (foto1, foto2, foto3)
 
-![Screenshoot Pengerjaan] (src/assets/img/ss/ss1.png)
+

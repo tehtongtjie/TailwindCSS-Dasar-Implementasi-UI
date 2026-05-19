@@ -30,7 +30,7 @@ Halaman ini dirancang secara modular dan responsif (*Mobile-First Approach*) den
 
 ## 📸 Screenshot Pengerjaan
 
-![Funtasya World Landing Page](assets/img/ss/ss1.png)
+![Funtasya World](src/assets/img/ss/ss1.png)
 
 
 ## 📁 Struktur Folder Proyek
